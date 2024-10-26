@@ -19,3 +19,5 @@ build/
 
 Doxyfile
 doxygen_sqlite3.db
+zig-cache
+.zig-cache
